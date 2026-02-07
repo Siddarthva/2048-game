@@ -164,48 +164,6 @@ The game will open automatically at `http://localhost:3000`
 
 ---
 
-## 🚀 Usage
-
-### Development
-
-Start the development server with hot module replacement:
-
-```bash
-npm run dev
-```
-
-- Changes to source files will reflect immediately
-- Vite provides instant feedback in the browser
-- Console warnings and errors are displayed
-
-### Production Build
-
-Create an optimized production build:
-
-```bash
-npm run build
-```
-
-Build artifacts will be generated in the `dist/` directory.
-
-### Preview Production Build
-
-Preview the production build locally:
-
-```bash
-npm run preview
-```
-
-### Linting
-
-Check code quality and style:
-
-```bash
-npm run lint
-```
-
----
-
 ## 🎲 Game Rules
 
 ### Objective
